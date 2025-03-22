@@ -4,5 +4,5 @@
 <br>
 <br>
 
-<p> <b>Languages: Java. </b> </p>
+<p> <b>Language(s): Java. </b> </p>
 <p> <b>IDE(s): NetBeans. </b> </p>
